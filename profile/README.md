@@ -4,10 +4,10 @@ Testing organization for GitHub-Jenkins integration and CloudBees CI workflows.
 
 ## Repositories
 
-**[marvels-mock](https://github.com/pankaj-test-org/marvels-mock)** (Public)  
+**[marvels-mock](https://github.com/pankaj-test-org/marvels-mock)** (Private)  
 CloudBees CI + GitHub integration testing. Validates ReRunCause for CBP-31531.
 
-**[potential-train](https://github.com/pankaj-test-org/potential-train)** (Private)  
+**[potential-train](https://github.com/pankaj-test-org/potential-train)** (Public)  
 Mock APIs for Jenkins integration testing.
 
 ## What We Test
